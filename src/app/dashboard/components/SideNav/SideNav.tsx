@@ -8,10 +8,6 @@ import { usePathname } from 'next/navigation';
 const ROUTES = [
   {
     name: 'home',
-    href: '/',
-  },
-  {
-    name: 'dashboard',
     href: '/dashboard',
   },
   {
